@@ -118,17 +118,3 @@ Athens
 ```
 
 ---
-
-## 💡 Notes
-
-* Input is **case-insensitive** for answers.
-* `SKIP` is **reserved** and cannot be a correct answer in any question.
-* Questions are selected **randomly** without duplicates.
-* Each player starts with **0 points**.
-
-```
-
----
-
-Would you like me to add a **“📂 Project Structure”** section showing what Java files to include (like `QuizBowl.java`, `Player.java`, etc.)? It’s useful for setup clarity.
-```
